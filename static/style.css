@@ -31,12 +31,12 @@ header a{
     border: 1px solid #ddd;
     padding: 10px;
     text-align: center;
-    height: 80%;
+    height: 70%;
 }
 
 .produto img{
     width: 50%;
-    height: 100%;
+    height: 70%;
 }
 
 footer{
